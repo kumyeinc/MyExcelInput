@@ -48,6 +48,8 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("MyTAG", "Just a message");
 
+        Log.i("MyTAG", "My second commit");
+
     }
 
 }
