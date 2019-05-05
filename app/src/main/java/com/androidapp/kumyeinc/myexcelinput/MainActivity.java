@@ -44,6 +44,10 @@ public class MainActivity extends AppCompatActivity {
         viewNewestNumber.setText("" + numberEntered);
         Log.i("MyTAG", "My newest number is " + numberEntered);
 
+        //Just to create a line to show how Github 'commit' works
+
+        Log.i("MyTAG", "Just a message");
+
     }
 
 }
